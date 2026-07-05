@@ -1,7 +1,7 @@
 # Restaurante App - Semana 6
 
 ## Nombre del estudiante
-*(Escribe aquí tu nombre completo)*
+*Andrango Nieto Alison Dayana*
 
 ---
 
